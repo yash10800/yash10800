@@ -1,6 +1,6 @@
 ### Hi there, I'm Yash Patel -[My website][website] 👋
 
-## I'm a student at Institute of technology nirma university!
+## I'm a student at <font color='yellow'>Institute of technology nirma university</font>!
 - 🔭 I’m currently working on a Website of Ensave [Old][website] [New][website]!
 - 🌱 I’m currently learning ElectronJs 💻 
 - 👯 I’m looking for web development internship
