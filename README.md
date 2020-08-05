@@ -5,7 +5,11 @@
 - 🌱 I’m currently learning ElectronJs 💻 
 - 👯 I’m looking for web development internship
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 🙍 I'm an Enthusiastic, Responsible and Hard working computer person. I have deep under standing of it skills. I can easily learn any new thing and can also teach perfectly .My dream is to make a house with full automation 
 - ⚡ Fun fact: I love to draw and play chess / Mobile games
+
+## Project Experience
+<span style='color:darkred;font-weight:bold;font-size:10px'>Banking Management System</span>
 
 ### Connect with me:
 
