@@ -8,10 +8,20 @@
 - 🙍 I'm an Enthusiastic, Responsible and Hard working computer person. I have deep under standing of it skills. I can easily learn any new thing and can also teach perfectly .My dream is to make a house with full automation 
 - ⚡ Fun fact: I love to draw and play chess / Mobile games
 
-## Project Experience
-### Banking Management System
-#### Object oriented Java
-- I have created a console based program that can create user add,withdraw,transfer of money,getting loan.I have used Object oriented concept of java 
+## Work Experience
+### EnSave Corporation Private Limited (July-2020 Present)
+#### Web developer
+- Created responsive e-commerce website of company using htm, css, bootstrap, php, javascript. we are using symfony php framework to make website
+### Peanut Square (July-2020 Present)
+#### Web developer internship
+- Creating responsive e-commerce website of company using HTML, CSS, Bootstrap, Php, Javascript for staylancer company of travelling. we are using symfony php framework to make website.
+
+### Center Of Excellence, BinghamtonUniversity - Nirma University (Feb-2020 : Mar-2020)
+#### Web developer
+- Design and created responsive Center of Excellence National level hackathon website using HTML, CSS, Javascript, JQuery, Bootstrap, AngularJS
+
+
+
 
 ### Connect with me:
 
