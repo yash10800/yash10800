@@ -43,7 +43,7 @@
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yash10800&show_icons=true&hide_border=true" />
 
 [website]: http://myinfo-yash.epizy.com
 [gmail]: yash.official2181@gmail.com
